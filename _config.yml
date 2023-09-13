@@ -4,6 +4,7 @@ description:        TBD
 author:             Gurum
 baseurl:            ""
 url:                "https://son-hyun.github.io"
+theme:              jekyll-theme-clean-blog
 
 # Social Profiles
 twitter_username:   
