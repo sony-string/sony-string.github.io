@@ -1,6 +1,6 @@
 ---
 title: emscripten 찍먹기 - 1
-date: 2024-04-30 18:58:00 +0900
+date: 2024-09-21 20:55:00 +0900
 categories: [개발공부, emscripten]
 tags: [emscripten, wasm, c++, c]     # TAG names should always be lowercase
 ---
