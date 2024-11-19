@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: sony-string (seh200) # the main title
 
-tagline: 생체 LLM 기록 # it will display as the sub-title
+tagline: <sony-string.net/> # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   sony-string (=seh200)의 개발/PS 블로그
